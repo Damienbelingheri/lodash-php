@@ -1,6 +1,6 @@
 {
     "require": {
-        "phpstan/phpstan": "^0.10.3"
+        "phpstan/phpstan": "^1.6.0"
     },
     "config": {
         "allow-plugins": {
